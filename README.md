@@ -14,9 +14,9 @@ Simple TensorFlow examples
 ### MNIST
 The MNIST database provides a large amount of of handwritten digits.
 
-Image dimension:    28x28 pixels  --> flatten input array of 784 
-Training set:       60,000 images
-Test set:           10,000 images
+- Image dimension:    28x28 pixels  --> flatten input array of 784 
+- Training set:       60,000 images
+- Test set:           10,000 images
 
 
 
