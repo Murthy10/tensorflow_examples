@@ -6,11 +6,6 @@ Simple TensorFlow examples
 
 ## Information
 
-### Bias
-
-
-### One hot
-
 ### MNIST
 The MNIST database provides a large amount of of handwritten digits.
 
